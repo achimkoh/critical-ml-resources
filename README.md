@@ -1,6 +1,6 @@
 # critical machine learning (cml) resources
 
-This list contains selected readings and resources that might be helpful in understanding basic ideas around machine learning/AI, learning how to use some of the tech out there and thinking critically about what this all means. It contains items I have read or plan to; the list will be updated/modified occasionally. Some of the items will be grouped into subcollections that explore specific topics, such as:
+This list contains selected readings and resources that might be helpful in understanding basic ideas around machine learning/AI and thinking critically about what this all means. It contains items I have read or plan to; the list will be updated/modified occasionally. Some of the items will be grouped into subcollections that explore specific topics, such as:
 * black box: https://www.are.na/critical-machine-learning/black-boxes
 
 This collection is partly aimed at non-CS people like me, who are interested in the topic and will benefit from materials that use lots of plain language. Also, it could be useful to people who are within and/or much more comfortable with CS, and want to know what different people with various perspectives have to say about the technology. So some of this will be very basic both technically and in terms of its critical discussion, and hopefully that is a good thing.
@@ -82,12 +82,15 @@ https://www.propublica.org/series/machine-bias
 **Distill**
 http://distill.pub/
 
+If you want to learn the technical stuff, the following two links are probably helpful to you:  
 **Selection of resources to learn Artificial Intelligence / Machine Learning / Statistical Inference / Deep Learning / Reinforcement Learning by Memo Atken**
 https://github.com/memo/ai-resources
+
+and
 
 **Machine Learning for Artists by Gene Kogan and Francis Tseng**
 https://ml4a.github.io/
 
 **The Non-Technical Guide to Machine Learning & Artificial Intelligence by Sam DeBrule**
 https://machinelearnings.co/a-humans-guide-to-machine-learning-e179f43b67a0  
-Popular list that provides an industry-oriented overview.
+Popular list that provides an industry-oriented overview
