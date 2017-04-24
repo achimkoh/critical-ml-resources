@@ -54,7 +54,7 @@ https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471
 http://www.r2d3.us/visual-intro-to-machine-learning-part-1/  
 Visualizes the decision tree algorithm.
 
-Handwriting recognition:
+Handwriting recognition:  
 **Back to the Future of Handwriting Recognition by Jack Schaedler**
 https://jackschaedler.github.io/handwriting-recognition/  
 This essay explains a non-ML approach that used hard-defined rules to determine what the user wrote. In contrast, the following two links (note: quite heavy on the browser) show machine learning-based approaches at a similar task:
