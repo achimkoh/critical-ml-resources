@@ -27,6 +27,18 @@ http://www.newyorker.com/magazine/2017/04/03/ai-versus-md
 https://aiexperiments.withgoogle.com/  
 Online gallery of AI-based art/design projects, curated by Google.
 
+## A bit more technical introductions, with diagrams and such
+
+**Machine Learning is Fun! by Adam Geitgey**
+https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471
+
+**A Visual Introduction to Machine Learning by R2D3**
+http://www.r2d3.us/visual-intro-to-machine-learning-part-1/  
+Visualizes the decision tree algorithm.
+
+**3D Visualization of a Convolutional Neural Network by Adam Harley**
+http://scs.ryerson.ca/~aharley/vis/conv/
+
 ## Machine learning as black box
 
 **O'Neil, Cathy. "Welcome to the Black Box." *Jacobin*, September 19, 2016**
@@ -64,6 +76,8 @@ https://twitter.com/kaflurbaleen/status/851882175733444608
 "Machine learning is like money laundering for bias"  
 https://twitter.com/Pinboard/status/744595961217835008
 
+https://twitter.com/tinysubversions/status/710116805012885505
+
 ## Other lists 
 
 ML/AI-related things are pouring out in a ridiculous speed, reflecting the rapid growth of the field both as industry and research. Accordingly, people have built lists, daily digests, aggregators and other projects in order to collect and filter information. Someone is probably building a meta-list of these collections right now, if they haven't done so yet, and that it will not be long until that meta-list itself is outdated. It amuses me how a crucial piece of machine learning is dealing with large data, but I am hardly able to deal with the amount of machine learning-related information.
@@ -82,15 +96,17 @@ https://www.propublica.org/series/machine-bias
 **Distill**
 http://distill.pub/
 
-If you want to learn the technical stuff, the following two links are probably helpful to you:  
+**The Non-Technical Guide to Machine Learning & Artificial Intelligence by Sam DeBrule**
+https://machinelearnings.co/a-humans-guide-to-machine-learning-e179f43b67a0  
+This list gives an industry-oriented overview.
+
+If you want to learn the technical stuff, the following links are probably helpful to you:  
 **Selection of resources to learn Artificial Intelligence / Machine Learning / Statistical Inference / Deep Learning / Reinforcement Learning by Memo Atken**
 https://github.com/memo/ai-resources
-
-and
 
 **Machine Learning for Artists by Gene Kogan and Francis Tseng**
 https://ml4a.github.io/
 
-**The Non-Technical Guide to Machine Learning & Artificial Intelligence by Sam DeBrule**
-https://machinelearnings.co/a-humans-guide-to-machine-learning-e179f43b67a0  
-Popular list that provides an industry-oriented overview
+**The Programming Historian** (especially the Distant Reading section)
+http://programminghistorian.org/
+
