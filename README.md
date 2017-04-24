@@ -33,7 +33,9 @@ Not exactly ML-related, but fits well with the Tanz piece above
 
 **Huet, Ellen. "The Humans Hiding Behind the Chatbots." *Bloomberg Technology*, April 18, 2016.**
 https://www.bloomberg.com/news/articles/2016-04-18/the-humans-hiding-behind-the-chatbots  
-Shorter read that sketches some of the human labor involved in the training of "automated" agents.
+
+**Gray, Mary L. and Suri, Siddharth. "The Humans Working Behind the AI Curtain." *Harvard Business Review*. January 09, 2017.**
+https://hbr.org/2017/01/the-humans-working-behind-the-ai-curtain
 
 **A Return to Machine Learning by Kyle McDonald**
 https://medium.com/@kcimc/a-return-to-machine-learning-2de3728558eb  
