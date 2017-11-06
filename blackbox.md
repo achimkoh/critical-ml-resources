@@ -1,3 +1,8 @@
+--
+title: Black Box
+permalink: /blackbox
+--
+
 # Black box
 
 Machine learning algorithms are becoming increasingly important elements of the computational processes operating in the contemporary society, in fields such as finance, journalism, advertising, medicine, education, translation, robotics, and much more. Along with the prospect of efficiency through automation and new possibilities in the field of artificial intelligence, this technological change also raises concerns about the sociopolitical aspects of the change. If machine learning-related technology is increasingly being used in ways that affect people's lives—for example to make decisions on whether someone should be eligible for a loan, be granted a bail, or be diagnosed of a certain disease—the social implementations will benefit from a transparent knowledge of the technology. Fittingly, a recurring concern in the critical discourse around machine learning points to its opacity, its being a 'black box': you feed some data to the machine, it outputs some result, but we don't really know what happens inside.
