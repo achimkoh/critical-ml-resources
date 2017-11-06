@@ -1,8 +1,3 @@
---
-layout: default
-permalink: /
---
-
 # critical machine learning (cml) resources
 
 This list contains selected readings and resources that might be helpful in understanding basic ideas around machine learning/AI and thinking critically about what this all means. It contains items I have read or plan to; the list will be updated/modified occasionally. Some of the items will be grouped into subcollections that explore specific topics, such as:
