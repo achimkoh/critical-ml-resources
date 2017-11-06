@@ -54,5 +54,5 @@ EU's General Data Protection Regulation, effective 2018, is known for its implem
 
 - Burrell, Jenna. "How the machine ‘thinks’: Understanding opacity in machine learning algorithms." Big Data & Society 3, no. 1 (2016): 2053951715622512.  
 - Sandvig, Christian, Kevin Hamilton, Karrie Karahalios, and Cedric Langbort. "Auditing algorithms: Research methods for detecting discrimination on internet platforms." Data and discrimination: converting critical concerns into productive inquiry (2014).  
-- http://www.fatml.org/resources  
-- https://www.are.na/critical-machine-learning/black-boxes
+- <http://www.fatml.org/resources>  
+- <https://www.are.na/critical-machine-learning/black-boxes>
