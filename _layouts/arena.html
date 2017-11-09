@@ -7,17 +7,42 @@
 {% seo %}
     <link href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" rel="stylesheet">
     <style>
-      iframe {
-        width: 359px;
-        height: 100%;
-        position: fixed;
-        top: 0;
-        right: 0;
-        border: none;
-        border-left: solid 1px #bbb;
+      a.arena {
+        float: right;
+        background-color: #fff;
+        margin: 5em 0 1em 1em;
       }
-      body {
-        width: calc(100% - 359px);
+      @media screen and (max-width: 768px) { 
+        a.arena { 
+          float: none;
+          margin: 0;
+        } 
+      }
+      a.arena:hover {
+        text-decoration: none;
+      }
+      .Block {
+        display: grid;
+        margin: auto;
+        position: relative;
+        text-align: center;
+        height: 300px;
+        width: 300px;
+        border: 2px solid rgba(23,172,16,0.3);
+        color: #17ac10;
+        box-shadow: -1em 0 0 #fff;
+      }
+      .Block:hover {
+        border: 2px solid #17ac10;
+        text-decoration: none;
+      }
+      .Block-description {
+        margin: 40% auto;
+        line-height: 3em;
+        font-size: 0.9em;
+      }
+      .Block-description > span {
+        font-size: 2em;
       }
     </style>
   </head>
@@ -28,7 +53,7 @@
       {% endif %}
 
       {% if page.arena_url %}
-        <iframe src="{{ page.arena_url }}"></iframe>
+        <a href="{{ page.arena_url }}" class="arena"><div class="Block"><div class="Block-description"><span>{{ page.title }}</span><br>Readings on are.na</div></div></a>
       {% endif %}
 
       {{ content }}

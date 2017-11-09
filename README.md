@@ -45,6 +45,8 @@ A "survey of recent developments in machine learning research that intersect wit
 <https://aiexperiments.withgoogle.com/>  
 Online gallery of AI-based art/design projects, curated by Google.
 
+My presentation on this topic at the 2017 NYCDH Week: [link](/nycdh17_ml.pdf)
+
 ## A bit more technical introductions, with diagrams and such
 
 **Machine Learning is Fun! by Adam Geitgey**
@@ -68,7 +70,7 @@ This essay explains a non-ML approach that used hard-defined rules to determine 
 **A Visual and Interactive Guide to the Basics of Neural Networks by J Alammar**
 <https://jalammar.github.io/visual-interactive-guide-basics-neural-networks/>
 
-## Machine learning as black box
+## [Machine learning as black box](/blackbox)
 
 **O'Neil, Cathy. "Welcome to the Black Box." *Jacobin*, September 19, 2016**
 <https://www.jacobinmag.com/2016/09/big-data-algorithms-math-facebook-advertisement-marketing/>
