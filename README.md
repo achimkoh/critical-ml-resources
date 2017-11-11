@@ -1,5 +1,7 @@
 # Critical Machine Learning
 
+Work in progress.
+
 This list contains selected readings and resources that might be helpful in understanding basic ideas around machine learning/AI and thinking critically about what this all means. It contains items I have read or plan to; the list will be updated/modified occasionally. Some of the items will be grouped into subcollections that explore specific topics, such as:
 * black box: <https://www.are.na/critical-machine-learning/black-boxes>
 
