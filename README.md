@@ -158,3 +158,9 @@ Not precisely ML-related but nicely visualizes some basic statistical concepts.
 **A.I. Experiments by Google**
 <https://aiexperiments.withgoogle.com/>  
 Online gallery of AI-based art/design projects, curated by Google.
+
+**Cybernetics Conference**
+<http://cybernetics.social/>
+
+**AI Now Institute**
+<https://ainowinstitute.org/>
