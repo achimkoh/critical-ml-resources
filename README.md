@@ -1,21 +1,31 @@
+---
+layout: arena
+arena_url: https://www.are.na/critical-machine-learning
+---
+
 # Critical Machine Learning
 
-Work in progress.
+Machine learning algorithms are becoming increasingly important elements of the computational processes operating in the contemporary society. Their influence calls for discussions about the social implications, not only by technology experts but also by a broader range of people which are affected by the technological change. This in turn is helped by both accessible technical knowledge and critical thinking, which complement each other. There are a lot of openly available resources that treat either the technicalities of machine learning or more socio-humanistic critiques of the technology. Efforts to mediate the space in-between are also more and more present, but I feel that another such attempt couldn't hurt—hence this list. 
 
-This list contains selected readings and resources that might be helpful in understanding basic ideas around machine learning/AI and thinking critically about what this all means. It contains items I have read or plan to; the list will be updated/modified occasionally. Some of the items will be grouped into subcollections that explore specific topics, such as:
-* black box: <https://www.are.na/critical-machine-learning/black-boxes>
+This online resource contains selected readings that can help understand basic concepts of machine learning/AI, as well as its characteristics as a technology situated within social contexts. It is accompanied by [this account on Are.na](https://www.are.na/critical-machine-learning/) (which is a service you should consider giving a try if you haven't already). The two resources mostly overlap; the Are.na account is updated more frequently, whereas this website is intended to be more stable. Although this whole thing is intended to serve as a temporary meta-resource amidst a rapidly changing socio-technological environment, so may become obsolete very quickly. I only hope this is useful in the meantime.
 
-This collection is partly aimed at non-CS people like me, who are interested in the topic and will benefit from materials that use lots of plain language. Also, it could be useful to people who are within and/or much more comfortable with CS, and want to know what different people with various perspectives have to say about the technology. So some of this will be very basic both technically and in terms of its critical discussion, and hopefully that is a good thing.
+The list is intended partly in order to serve as a workshop curriculum. My presentation on this topic at the 2017 NYCDH Week: [link](/nycdh17_ml.pdf)
 
 ## Primers
 
+The items here were chosen under two criteria: 1) the material should be produced in a way that assumes no prior in-depth technical knowledge, nor the intention to learn it in the future, from the readers; and 2) each material, or some materials combined, should provide an overview on the social implications that this technological trend represents.
+
+### Short introductions
+
 **Daly, Liza. "AI Literacy: The basics of machine learning," *World Writable*, Apr 11, 2017.**
 <https://worldwritable.com/ai-literacy-the-basics-of-machine-learning-2e20f93e34b4>  
-Daly provides a nice short introduction to the terms artificial intelligence, machine learning, neural networks, and deep learning. Good accompaniment to the following videos.
+At this point there are [so many introductions to machine learning](https://www.google.com/search?q=%22introduction+to+machine+learning%22). I picked this one because it is short, easy-to-read, and it only does one thing: explaining the confusing terms that are artificial intelligence, machine learning, neural networks, and deep learning.
 
 **Artificial Intelligence, Revealed (Video series by Facebook)**
 <https://code.facebook.com/pages/1902086376686983>  
 Along with the previous post, I think it serves as a good lead into the following three longer reads.
+
+### Historical context and recent rise of machine learning
 
 **Lewis-Kraus, Guideon. "The great AI awakening." *The New York Times Magazine*, Dec 14, 2016.**
 <http://nyti.ms/2hE6XZ5>  
@@ -25,6 +35,12 @@ Along with the previous post, I think it serves as a good lead into the followin
 <http://www.newyorker.com/magazine/2017/04/03/ai-versus-md>  
 * augmenting and/or replacing human judgement with AI
 * focus on medicine but also relevant to bioengineering, driverless car, etc
+
+**A Return to Machine Learning by Kyle McDonald**
+<https://medium.com/@kcimc/a-return-to-machine-learning-2de3728558eb>  
+A "survey of recent developments in machine learning research that intersect with art and culture."
+
+### More context on the role of software code in the technology industry
 
 **Tanz, J. "Soon We Won't Program Computers. We'll Train them Like Dogs." *Wired*, May 17, 2016.**
 <https://www.wired.com/2016/05/the-end-of-code/>  
@@ -39,17 +55,7 @@ Not exactly ML-related, but fits well with the Tanz piece above
 **Gray, Mary L. and Suri, Siddharth. "The Humans Working Behind the AI Curtain." *Harvard Business Review*. January 09, 2017.**
 <https://hbr.org/2017/01/the-humans-working-behind-the-ai-curtain>
 
-**A Return to Machine Learning by Kyle McDonald**
-<https://medium.com/@kcimc/a-return-to-machine-learning-2de3728558eb>  
-A "survey of recent developments in machine learning research that intersect with art and culture."
-
-**A.I. Experiments by Google**
-<https://aiexperiments.withgoogle.com/>  
-Online gallery of AI-based art/design projects, curated by Google.
-
-My presentation on this topic at the 2017 NYCDH Week: [link](/nycdh17_ml.pdf)
-
-## A bit more technical introductions, with diagrams and such
+### A bit more technical introductions, with diagrams and such
 
 **Machine Learning is Fun! by Adam Geitgey**
 <https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471>
@@ -72,7 +78,9 @@ This essay explains a non-ML approach that used hard-defined rules to determine 
 **A Visual and Interactive Guide to the Basics of Neural Networks by J Alammar**
 <https://jalammar.github.io/visual-interactive-guide-basics-neural-networks/>
 
-## [Machine learning as black box](/blackbox)
+## Machine learning as black box
+
+[Read more on this topic](/blackbox)
 
 **O'Neil, Cathy. "Welcome to the Black Box." *Jacobin*, September 19, 2016**
 <https://www.jacobinmag.com/2016/09/big-data-algorithms-math-facebook-advertisement-marketing/>
@@ -89,7 +97,7 @@ This essay explains a non-ML approach that used hard-defined rules to determine 
 **Angwin, Julia et al. "BREAKING THE BLACK BOX." (Series of 4 videos and articles) *Propublica*. 2016.**
 <https://www.propublica.org/article/breaking-the-black-box-what-facebook-knows-about-you>
 
-## Machine learning as reproducer of existing norms and injustice
+### Machine learning as reproducer of existing norms and injustice
 In what case ML / AI serves to reinforce existing norms, prejudices, injustice, and such? How does that happen and what can we do about it?
 
 **Angwin, Julia et al. "Machine Bias." *Propublica*, May 23, 2016**
@@ -115,12 +123,6 @@ Some tweets I ran into:
 <https://twitter.com/tinysubversions/status/710116805012885505>
 
 <https://twitter.com/kcimc/status/841782643884621824>
-
-## Other items
-
-**Seeing Theory by Daniel Kunin**
-<http://students.brown.edu/seeing-theory>  
-Not precisely ML-related but nicely visualizes some basic statistical concepts.
 
 ## Other lists 
 
@@ -154,3 +156,10 @@ If you want to learn the technical stuff, the following links are probably helpf
 **The Programming Historian** (especially the Distant Reading section)
 <http://programminghistorian.org/>
 
+**Seeing Theory by Daniel Kunin**
+<http://students.brown.edu/seeing-theory>  
+Not precisely ML-related but nicely visualizes some basic statistical concepts.
+
+**A.I. Experiments by Google**
+<https://aiexperiments.withgoogle.com/>  
+Online gallery of AI-based art/design projects, curated by Google.
