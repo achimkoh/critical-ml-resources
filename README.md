@@ -10,6 +10,8 @@ The list is intended partly in order to serve as a workshop curriculum. My prese
 
 The items here were chosen under two criteria: 1) the material should be produced in a way that assumes no prior in-depth technical knowledge, nor the intention to learn it in the future, from the readers; and 2) each material, or some materials combined, should provide an overview on the social implications that this technological trend represents.
 
+---
+
 ### Short introductions
 
 **Daly, Liza. "AI Literacy: The basics of machine learning," *World Writable*, Apr 11, 2017.**  
@@ -19,6 +21,8 @@ At this point there are [so many introductions to machine learning](https://www.
 **Artificial Intelligence, Revealed (Video series by Facebook)**  
 <https://code.facebook.com/pages/1902086376686983>  
 Along with the previous post, I think it serves as a good lead into the following three longer reads.
+
+---
 
 ### Historical context and recent rise of machine learning
 
@@ -35,6 +39,8 @@ Along with the previous post, I think it serves as a good lead into the followin
 <https://medium.com/@kcimc/a-return-to-machine-learning-2de3728558eb>  
 A "survey of recent developments in machine learning research that intersect with art and culture."
 
+---
+
 ### More context on the role of software code in the technology industry
 
 **Tanz, J. "Soon We Won't Program Computers. We'll Train them Like Dogs." *Wired*, May 17, 2016.**  
@@ -49,6 +55,8 @@ Not exactly ML-related, but fits well with the Tanz piece above
 
 **Gray, Mary L. and Suri, Siddharth. "The Humans Working Behind the AI Curtain." *Harvard Business Review*. January 09, 2017.**  
 <https://hbr.org/2017/01/the-humans-working-behind-the-ai-curtain>
+
+---
 
 ### A bit more technical introductions, with diagrams and such
 
@@ -91,6 +99,8 @@ This essay explains a non-ML approach that used hard-defined rules to determine 
 
 **Angwin, Julia et al. "BREAKING THE BLACK BOX." (Series of 4 videos and articles) *Propublica*. 2016.**  
 <https://www.propublica.org/article/breaking-the-black-box-what-facebook-knows-about-you>
+
+---
 
 ### Machine learning as reproducer of existing norms and injustice
 In what case ML / AI serves to reinforce existing norms, prejudices, injustice, and such? How does that happen and what can we do about it?
