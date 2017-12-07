@@ -1,8 +1,3 @@
----
-layout: arena
-arena_url: https://www.are.na/critical-machine-learning
----
-
 # Critical Machine Learning
 
 Machine learning algorithms are becoming increasingly important elements of the computational processes operating in the contemporary society. Their influence calls for discussions about the social implications, not only by technology experts but also by a broader range of people which are affected by the technological change. This in turn is helped by both accessible technical knowledge and critical thinking, which complement each other. There are a lot of openly available resources that treat either the technicalities of machine learning or more socio-humanistic critiques of the technology. Efforts to mediate the space in-between are also more and more present, but I feel that another such attempt couldn't hurt—hence this list. 
