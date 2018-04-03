@@ -1,8 +1,8 @@
-# Critical Machine Learning
+# [Critical Machine Learning](https://www.are.na/critical-machine-learning/)
 
 Machine learning algorithms are becoming increasingly important elements of the computational processes operating in the contemporary society. Their influence calls for discussions about the social implications, not only by technology experts but also by a broader range of people which are affected by the technological change. This in turn is helped by both accessible technical knowledge and critical thinking, which complement each other. There are a lot of openly available resources that treat either the technicalities of machine learning or more socio-humanistic critiques of the technology. Efforts to mediate the space in-between are also more and more present, but I feel that another such attempt couldn't hurt—hence this list. 
 
-This online resource contains selected readings that can help understand basic concepts of machine learning/AI, as well as its characteristics as a technology situated within social contexts. It is accompanied by [this account on Are.na](https://www.are.na/critical-machine-learning/) (which is a service you should consider giving a try if you haven't already). The two resources mostly overlap; the Are.na account is updated more frequently, whereas this website is intended to be more stable. Although this whole thing is intended to serve as a temporary meta-resource amidst a rapidly changing socio-technological environment, so may become obsolete very quickly. I only hope this is useful in the meantime.
+This online resource contains selected readings that can help understand basic concepts of machine learning/AI, as well as its characteristics as a technology situated within social contexts. It is accompanied by [this account on Are.na](https://www.are.na/critical-machine-learning/). The two resources mostly overlap; the Are.na account is updated more frequently, whereas this website is intended to be more stable. Although this whole thing is intended to serve as a temporary meta-resource amidst a rapidly changing socio-technological environment, so may become obsolete very quickly. I only hope this is useful in the meantime.
 
 This project was initially conducted as an independent study project for the [Interactive Technology and Pedagogy](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Certificate-Programs/Interactive-Technology-and-Pedagogy) certificate program at the Graduate Center, CUNY where I was advised by the super [Maura Smale](https://maurasmale.com/). Project write-up: [link](/critical-ml.pdf)
 
@@ -11,6 +11,12 @@ The list is intended partly in order to serve as a workshop curriculum. My prese
 ## Primers
 
 The items here were chosen under two criteria: 1) the material should be produced in a way that assumes no prior in-depth technical knowledge, nor the intention to learn it in the future, from the readers; and 2) each material, or some materials combined, should provide an overview on the social implications that this technological trend represents.
+
+---
+
+### Update: Cambridge Analytica
+
+I've started gathering some readings relevant to Cambridge Analytica and broader data surveillance in [this Are.na channel](https://www.are.na/critical-machine-learning/cambridge-analytica-1521496827). 
 
 ---
 
